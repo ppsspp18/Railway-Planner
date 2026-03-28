@@ -29,3 +29,9 @@ Open your terminal and install the dependencies:
 pip install fastapi uvicorn streamlit python-dateutil
 uvicorn backend:app --reload
 streamlit run frontend.py
+```
+## Images : 
+![Alt Text](images/P1.png)
+![Alt Text](images/P2.png)
+![Alt Text](images/P3.png)
+![Alt Text](images/P4.png)
